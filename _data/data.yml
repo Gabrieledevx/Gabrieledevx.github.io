@@ -149,6 +149,9 @@ skills:
 
       - name: Git
         level: 45%
+      
+      - name: Word, Excel, PowerPoint, Suite de Office
+        level: 80%
 
 footer: >
     <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Gabriel Medranda . Todos los derechos reservados.</p>
