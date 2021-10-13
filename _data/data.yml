@@ -55,15 +55,15 @@ career-profile:
       
 education:
 
-    - degree: Bachiller Técnico en Administración de Sistemas
-      university: Unidad Educativa Fiscal Réplica Vicente Rocafuerte
+    - degree: Bachiller Tecnico en Administracion de Sistemas
+      university: Unidad Educativa Fiscal Replica Vicente Rocafuerte
       time: 2015-2019
-      details: |
+      details: 
        
     - degree: Ingeniero en Software - (En curso)
       university: Universidad de Guayaquil
       time: 2019-Actualidad
-      details: |
+      details: 
        
 experiences:
     - role: Lead Developer
