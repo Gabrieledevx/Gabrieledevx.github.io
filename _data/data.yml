@@ -102,10 +102,7 @@ projects:
         link: "https://lernendu.github.io/"
         tagline: "Sitio web de una institución educativa."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+     
 # publications:
 #     title: Publications
 #     intro: |
