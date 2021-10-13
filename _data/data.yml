@@ -48,35 +48,21 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Como estudiante de la carrera de Ingeniería en Software, 
+      tengo un amplio interés en formar parte de una empresa, 
+      donde aplique los conocimientos adquiridos y por aprender, 
+      logrando así un perfil profesional por excelencia y experiencia. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachiller Técnico en Administración de Sistemas
+      university: Unidad Educativa Fiscal Réplica Vicente Rocafuerte
+      time: 2015-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+       
+    - degree: Ingeniero en Software - (En curso)
+      university: Universidad de Guayaquil
+      time: 2019-Actualidad
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       
 experiences:
     - role: Lead Developer
       time: 2015 - Present
