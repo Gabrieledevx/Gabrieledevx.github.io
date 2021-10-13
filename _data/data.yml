@@ -84,25 +84,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Lista de proyectos desarrollados para clientes con fines ilustrativos.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Musier
+        link: "https://musiercompany.github.io/"
+        tagline: "Sitio dedicado a la venta de instrumentos musicales."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Fortshop
+        link: "https://fortshoproject.github.io/"
+        tagline: "Sitio web dedicado a la venta de árticulos tecnológicos."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: JAGames
+        link: "https://jagames.github.io/"
+        tagline: "Reseller de licencias de videojuegos."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Lernen
+        link: "https://lernendu.github.io/"
+        tagline: "Sitio web de una institución educativa."
 
       - title: Delta
         link: "#"
