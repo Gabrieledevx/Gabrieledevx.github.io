@@ -111,7 +111,7 @@ projects:
         tagline: "Sitio web de una institución educativa hipotética"
 
       - title: Speak Emotion Recognition bot from Telegram
-        link: "www.kaggle.com/gabrielmedranda/meg-bot-kaggle"
+        link: "https://www.kaggle.com/gabrielmedranda/meg-bot-kaggle-tlbot"
         tagline: "Un bot de telegram que reconoce tu estado de animo según tu voz."
 
 # publications:
