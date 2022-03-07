@@ -13,11 +13,12 @@ sidebar:
 
     # Sidebar links
     email: misaelmedrandagarcia@gmail.com
+    email: gabriel.medranda@ieee.org
     phone: 098 938 7197
     website:  #do not add http://
     linkedin: 
     github: Gabrieledevx
-    telegram: # add your nickname without '@' sign
+    telegram: Gabrieljelsen
     gitlab:
     bitbucket:
     twitter: '@Gabrielievg'
@@ -45,8 +46,12 @@ sidebar:
       - item: Idiomas
         link:
       
-      - item: Desarrollo personal
+      - item: SpringBoot
         link:
+      
+      - item: 
+        link:
+      
 
 career-profile:
     title: Perfil Profesional
@@ -103,9 +108,12 @@ projects:
 
       - title: Lernen
         link: "https://lernendu.github.io/"
-        tagline: "Sitio web de una institución educativa."
+        tagline: "Sitio web de una institución educativa hipotética"
 
-     
+      - title: Speak Emotion Recognition bot from Telegram
+        link: "www.kaggle.com/gabrielmedranda/meg-bot-kaggle"
+        tagline: "Un bot de telegram que reconoce tu estado de animo según tu voz."
+
 # publications:
 #     title: Publications
 #     intro: |
@@ -149,9 +157,18 @@ skills:
 
       - name: Git
         level: 45%
-      
-      - name: Word, Excel, PowerPoint, Suite de Office
+  
+      - name: CentOS
+        level: 50%
+
+      - name: MySQL
+        level: 50%
+
+      - name: Ingeniería Inversa
         level: 80%
 
+      - name: Word, Excel, PowerPoint, Suite de Office
+        level: 80%
+      
 footer: >
     <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Gabriel Medranda . Todos los derechos reservados.</p>
