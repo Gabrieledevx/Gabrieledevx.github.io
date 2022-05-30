@@ -49,8 +49,10 @@ sidebar:
       - item: SpringBoot
         link:
       
-      - item: 
+      - item: Data Science
         link:
+      
+      - item: Blockchain
       
 
 career-profile:
@@ -141,34 +143,35 @@ skills:
 
     toolset:
       - name: Python 
-        level: 40%
+        #level: 40%
 
       - name: Java
-        level: 50%
+        #level: 50%
 
-      - name: HTML5 & CSS
-        level: 55%
+      - name: Desarrollo Web
+        #level: 55%
 
       - name: Wordpress
-        level: 50%
+        #level: 50%
 
       - name: Linux
-        level: 45%
+        #level: 45%
 
       - name: Git
-        level: 45%
+        #level: 45%
   
       - name: CentOS
-        level: 50%
+        #level: 50%
 
       - name: MySQL
-        level: 50%
+        #level: 50%
 
-      - name: Ingeniería Inversa
-        level: 80%
+      #- name: Ingeniería Inversa
+        #level: 80%
+      - name: Javascript
 
       - name: Word, Excel, PowerPoint, Suite de Office
-        level: 80%
+       # level: 80%
       
 footer: >
     <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Gabriel Medranda . Todos los derechos reservados.</p>
